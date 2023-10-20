@@ -1,3 +1,5 @@
+#pip install pycryptodome
+
 from Crypto.Cipher import DES
 from Crypto.Random import get_random_bytes
 
